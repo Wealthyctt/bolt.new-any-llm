@@ -1,2 +1,2 @@
-# bolt.diy
-Discription My very first app for bolt.diy on github.com
+# bolt.new-any-llm
+Discription My very first app for bolt.new-any-llm on github.com
